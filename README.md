@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhruvshah38@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xap86NIKbn1c3Yp03XJng7KF9YE1wHQk/view?usp=sharing](https://drive.google.com/file/d/1R4Rt4z--DG7s8UWS6acHdgUO3KSTdyLE/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xap86NIKbn1c3Yp03XJng7KF9YE1wHQk/view?usp=sharing](https://drive.google.com/file/d/1i4Yh9MPsXI1ChHe3X8-6tBtTW1DPHRvH/view?usp=sharing_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
