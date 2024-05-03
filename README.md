@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dhruv Shah</h1>
 <h3 align="center">I'm a student at the University of Waterloo and Wilfrid Laurier University studying Computer Science and Business Administration</h3>
 
-- 🔭 I’m currently working on **Mac Portfolio Website**
+- 🔭 I’m currently working on **Gene Sequence Classifier**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Neural Networks and Transformer Models**
 
 - 📫 How to reach me **dhruvshah38@gmail.com**
 
