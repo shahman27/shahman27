@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Neural Networks and Transformer Models**
 
 - 📫 How to reach me **dhruvshah38@gmail.com**
-- 📄 Know about my experiences through my **[resume](https://drive.google.com/file/d/1PW-AxkSXludzTwuWLSxOA-hcYzgLh_t4/view?usp=sharing)**
+- 📄 Know about my experiences through my **[resume](https://drive.google.com/file/d/1HhPngdLr86PieSmHSEx6u_oNlD321ysb/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
